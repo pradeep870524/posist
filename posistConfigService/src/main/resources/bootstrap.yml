@@ -1,0 +1,5 @@
+server:
+  post:8888
+spring:
+  application:
+    name: posist-config-server
